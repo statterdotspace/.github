@@ -1,6 +1,6 @@
-<a href="https://dub.co">
+<!-- <a href="https://dub.co">
   <img width="1920" height="955" alt="Statter.space – Know when your service is down" src="https://github.com/user-attachments/assets/05b5e279-2cf7-4d87-8e69-5262547a09cf" />
-</a>
+</a> -->
 
   <h3 align="center">Statter.space</h3>
 
